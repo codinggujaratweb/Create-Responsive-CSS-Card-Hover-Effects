@@ -1,5 +1,5 @@
 # CSS Card Hover Effects
-## [Live Preview](https://youtu.be/k3TaSKUNuXs)
+## [Live Preview](https://amanayak.github.io/Create-Responsive-CSS-Card-Hover-Effects)
 ### CSS Card Hover Effects
 
 - CSS Card Hover Effects | HTML & CSS
